@@ -51,9 +51,10 @@ class AddConfig extends Migration
 
     function down(): void
     {
-        $sql = DBManager::get()->prepare("DELETE FROM `config` WHERE `field` = :name");
         foreach (self::CONFIGS as $config) {
-            $sql->execute($config);
+            DBManager::get()->exec(
+                sprintf("DELETE FROM `config` WHERE `field` = %s", $config['name'])
+            );
         }
     }
 }
