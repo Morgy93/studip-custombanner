@@ -1,0 +1,7 @@
+pluginname=CustomBanner
+pluginclassname=CustomBanner
+origin=Morgy93
+version=0.1.0
+description=This plugin allows you to create a custom banner on the top of the page
+studipMinVersion=5.4
+localedomain=custombanner

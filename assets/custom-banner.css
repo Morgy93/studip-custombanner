@@ -1,0 +1,11 @@
+custom-banner {
+    display: block;
+    position: fixed;
+    width: 100%;
+    padding: 1rem;
+    z-index: 9999;
+}
+
+body {
+    margin-top: 2.5rem;
+}

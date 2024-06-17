@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the CustomBanner package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CustomBanner\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-17 20:27+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Settings saved."
+msgstr "Die Einstellungen wurden gespeichert."
+
+msgid "Custom Banner"
+msgstr "Individueller Banner"
+
+msgid "On this page you can setup a custom banner to be displayed across all pages."
+msgstr "Auf dieser Seite können Sie einen individuellen Banner einrichten, der auf allen Seiten angezeigt wird."
+
+msgid "Banner enabled:"
+msgstr "Banner aktiviert:"
+
+msgid "No"
+msgstr "Nein"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Banner text color:"
+msgstr "Banner Textfarbe:"
+
+msgid "CSS color value"
+msgstr "CSS Farbwert"
+
+msgid "Banner background color:"
+msgstr "Banner Hintergrundfarbe:"
+
+msgid "Banner message:"
+msgstr "Banner Nachricht:"
+
+msgid "Enter your banner message"
+msgstr "Geben Sie eine Banner Nachricht ein"
+
+msgid "Save"
+msgstr "Speichern"
