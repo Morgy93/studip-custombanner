@@ -7,7 +7,7 @@ class AddConfig extends Migration
     private const CONFIGS = [
         [
             'name' => 'CUSTOMBANNER_ENABLED',
-            'value' => false,
+            'value' => '0',
             'type' => 'boolean',
             'desc' => 'Should the custom banner be displayed?',
         ],
